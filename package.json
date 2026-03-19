@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/AkshunMehrotra/ai-news-dashboard/issues"
   },
-  "homepage": "https://github.com/AkshunMehrotra/ai-news-dashboard#readme"
+  "homepage": "https://github.com/AkshunMehrotra/ai-news-dashboard#readme",
+  "dependencies": {
+    "framer-motion": "^12.38.0"
+  }
 }
